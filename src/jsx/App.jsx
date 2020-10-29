@@ -99,14 +99,14 @@ class App extends Component {
               if (args.dataset.label === 'D') {
                 return {
                   height:45,
-                  src:path_prefix + 'media/img/biden.png',
+                  src:path_prefix + 'img/biden.png',
                   width:45
                 }
               }
               else {
                 return {
                   height:45,
-                  src:path_prefix + 'media/img/trump.png',
+                  src:path_prefix + 'img/trump.png',
                   width:45
                 }
               }
