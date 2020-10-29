@@ -14,7 +14,7 @@ if (location.href.match('localhost')) {
   path_prefix = './';
 }
 else {
-  path_prefix = 'https://raw.githubusercontent.com/ebuddj/2020-swing_states/master/public/';
+  path_prefix = 'https://raw.githubusercontent.com/ebuddj/2020-swing_states/main/public/';
 }
 
 class App extends Component {
