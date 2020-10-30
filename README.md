@@ -18,7 +18,6 @@ The US presidential election result is predicted to be determined in the few so 
 
 In the visualisation we show the states from left to right in the order of most electoral collage votes per state. The percentages are taken from 538 projection of the vote share on Nov. 3.
 
-
 **Sources**
 * [538 Election Forecast](https://projects.fivethirtyeight.com/2020-election-forecast/)
   * [538: Florida](https://projects.fivethirtyeight.com/2020-election-forecast/florida/)
