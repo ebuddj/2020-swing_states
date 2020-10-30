@@ -34,7 +34,7 @@ class App extends Component {
 
   }
   componentWillUnMount() {
-
+    clearInterval(interval);
   }
   getData() {
     d3.csv('./data/data.csv').then((data) => {
@@ -68,7 +68,7 @@ class App extends Component {
       data:bar_chart_data,
       options:{
         animation:{
-          duration: 2000,
+          duration:2000,
         },
         hover:{
           enabled:false,
