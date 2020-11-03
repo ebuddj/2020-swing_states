@@ -32,6 +32,7 @@ In the visualisation we show the states from left to right in the order of most 
 
 **EBU links**
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/1e16837398e2bce7ca54060cf370f11c/2020_21048920)
+* [Social Newswire](https://www.evnsocialnewswire.ch/data/us-animation-shows-latest-polling-in-us-swing-states-a-few-days-away-from-elections-animation/)
 
 **Used by**
 * []()
