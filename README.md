@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2020-swing_states/
 
-## Swing states projected vote share for Nov. 3 by Five Thirty Eight
+## Swing states projected vote share (EBU)
 
 The US presidential election result is predicted to be determined in the few so called Swing States. According to the FiveThirtyEight (a website that focuses on opinion poll analysis, politics, economics, and sports blogging) the following states are the closest calls (listed in alphabethical order).
 
